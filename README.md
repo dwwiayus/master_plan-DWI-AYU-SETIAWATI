@@ -1,16 +1,13 @@
-# state_manajemen
+NAMA : DWI AYU SETIAWATI
+NIM : 362358302073
+KELAS : 2A TRPL
 
-A new Flutter project.
+Tugas Praktikum 1
+1. ![Screenshot (1)](https://github.com/user-attachments/assets/c3681d49-df36-4074-b522-4fd6450185cb)
+2. pada pratikum step 4 file data_layer hanya berisi expor dari file plan dan task, itu karena agar perulangan pemanggilan class pada coding tidak terlalu banyak, dalam satu file sudah menyagkut 2 class didalamnya jadi saat import di file lain hanya menggunakan "import:data_layer.dart" saja.
+3. Variabel plan digunakan untuk mengelola data state yang terkait dengan rencana di dalam widget.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tugas Praktikum 2
+1. ![Screenshot (3)](https://github.com/user-attachments/assets/a87ab33a-566c-4608-a191-320fbdd10fd2)
+ 
